@@ -1,6 +1,12 @@
-# Forecasting-Terror-Attacks-in-Pakistan
-Forecasting Terror Attacks in Pakistan using Python and XGBoost
-We have a dataset containing information about terrorist attacks in Pakistan over a 10-year period. However, not all these attacks are claimed by specific groups. This project aims to predict the responsible group for unclaimed attacks based on patterns observed in known attacks. We will use the Random Forest and Boosted Tree model using XGBoost as a machine-learning technique to predict the most likely organization behind unclaimed attacks. We also perform data preprocessing and grouping of organizations to streamline the classification task. 
-Major Findings:
-1. We found that Boosted tree model has a better accuracy score (78%) that random forest (62%).
-2. The results were way better when we grouped together small frequency groups.
+# 🚨 Forecasting Terror Attacks in Pakistan
+Predicting responsible groups for unclaimed terrorist attacks using machine learning 🤖
+Dataset: 10-year period of terrorist attacks in Pakistan
+Objective: Predict the responsible organization for unclaimed attacks based on patterns in known attacks
+Models Used: Random Forest 🌲 | XGBoost 🚀
+Key Findings:
+
+🏆 XGBoost achieved 78% accuracy (vs. Random Forest's 62%)
+📊 Grouping low-frequency organizations significantly improved results
+🔍 Data preprocessing & organization grouping streamlined classification
+
+Tech Stack: Python 🐍 | XGBoost ⚡ | Random Forest 🌲 | Machine Learning 🧠
