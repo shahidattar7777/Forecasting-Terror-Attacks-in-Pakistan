@@ -6,7 +6,9 @@ Models Used: Random Forest 🌲 | XGBoost 🚀
 Key Findings:
 
 🏆 XGBoost achieved 78% accuracy (vs. Random Forest's 62%)
+
 📊 Grouping low-frequency organizations significantly improved results
+
 🔍 Data preprocessing & organization grouping streamlined classification
 
 Tech Stack: Python 🐍 | XGBoost ⚡ | Random Forest 🌲 | Machine Learning 🧠
